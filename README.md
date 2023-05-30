@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Hello GitHub Actions
+# Hello GitHub Actions 🐱
 
 _Create a GitHub Action and use it in a workflow._
 
@@ -29,7 +29,7 @@ Automation is key for streamlining your work processes, and [GitHub Actions](htt
 - **Prerequisites**: In this course you will work with issues and pull requests, as well as edit files. We recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course first.
 - **How long**: This course is five steps long and can be finished in less than two hours.
 
-## How to start this course
+## How to start this course ⛺
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
